@@ -1,0 +1,151 @@
+Order_ID,Order_Date,Product_Name,Category,Quantity,Unit_Price,Total_Amount,Customer_ID,City,Payment_Method
+ORD1006,2024-01-01,Samsung Galaxy,Electronics,4,45000,180000,CUST226,Bangalore,Cash on Delivery
+ORD1146,2024-01-03,Water Bottle,Home,2,400,800,CUST241,Hyderabad,UPI
+ORD1138,2024-01-06,Adidas T-Shirt,Fashion,4,1800,7200,CUST169,Chennai,UPI
+ORD1023,2024-01-08,Nike Shoes,Fashion,2,5500,11000,CUST143,Kolkata,Debit Card
+ORD1015,2024-01-08,Headphones,Electronics,3,2500,7500,CUST145,Chennai,Net Banking
+ORD1042,2024-01-12,Laptop Bag,Accessories,1,1200,1200,CUST101,Mumbai,UPI
+ORD1033,2024-01-13,Wireless Mouse,Electronics,2,800,1600,CUST204,Kolkata,Debit Card
+ORD1149,2024-01-16,Water Bottle,Home,4,400,1600,CUST134,Kolkata,Debit Card
+ORD1063,2024-01-18,Samsung Galaxy,Electronics,1,45000,45000,CUST134,Pune,UPI
+ORD1140,2024-01-19,Nike Shoes,Fashion,2,5500,11000,CUST121,Bangalore,Debit Card
+ORD1080,2024-01-20,Adidas T-Shirt,Fashion,4,1800,7200,CUST108,Bangalore,Debit Card
+ORD1100,2024-01-26,Adidas T-Shirt,Fashion,1,1800,1800,CUST234,Pune,Debit Card
+ORD1147,2024-01-26,Headphones,Electronics,3,2500,7500,CUST249,Chennai,Cash on Delivery
+ORD1139,2024-01-26,Adidas T-Shirt,Fashion,2,1800,3600,CUST186,Kolkata,Cash on Delivery
+ORD1128,2024-01-27,Coffee Mug,Home,4,350,1400,CUST203,Pune,Cash on Delivery
+ORD1007,2024-01-31,Water Bottle,Home,2,400,800,CUST210,Hyderabad,Credit Card
+ORD1072,2024-02-01,Water Bottle,Home,3,400,1200,CUST112,Kolkata,Debit Card
+ORD1127,2024-02-02,Jeans,Fashion,2,2200,4400,CUST168,Pune,Debit Card
+ORD1044,2024-02-05,Headphones,Electronics,3,2500,7500,CUST231,Chennai,Credit Card
+ORD1109,2024-02-10,Coffee Mug,Home,2,350,700,CUST102,Mumbai,UPI
+ORD1019,2024-02-19,Power Bank,Electronics,2,1500,3000,CUST157,Hyderabad,UPI
+ORD1083,2024-02-19,iPhone 15,Electronics,1,75000,75000,CUST205,Delhi,Cash on Delivery
+ORD1047,2024-02-23,Adidas T-Shirt,Fashion,3,1800,5400,CUST139,Hyderabad,Debit Card
+ORD1130,2024-02-27,Samsung Galaxy,Electronics,3,45000,135000,CUST125,Hyderabad,Credit Card
+ORD1004,2024-02-27,Water Bottle,Home,1,400,400,CUST234,Mumbai,Cash on Delivery
+ORD1053,2024-02-27,Notebook Set,Stationery,3,250,750,CUST119,Mumbai,UPI
+ORD1129,2024-02-28,Water Bottle,Home,2,400,800,CUST243,Bangalore,Net Banking
+ORD1030,2024-03-01,Adidas T-Shirt,Fashion,4,1800,7200,CUST148,Delhi,UPI
+ORD1105,2024-03-04,Power Bank,Electronics,3,1500,4500,CUST100,Mumbai,UPI
+ORD1040,2024-03-05,Power Bank,Electronics,2,1500,3000,CUST160,Delhi,Credit Card
+ORD1108,2024-03-06,iPhone 15,Electronics,1,75000,75000,CUST186,Chennai,UPI
+ORD1021,2024-03-07,Laptop Bag,Accessories,2,1200,2400,CUST171,Bangalore,UPI
+ORD1085,2024-03-11,Laptop Bag,Accessories,1,1200,1200,CUST166,Pune,Debit Card
+ORD1124,2024-03-12,Adidas T-Shirt,Fashion,4,1800,7200,CUST104,Delhi,Cash on Delivery
+ORD1061,2024-03-14,Coffee Mug,Home,4,350,1400,CUST155,Hyderabad,Debit Card
+ORD1001,2024-03-17,Coffee Mug,Home,1,350,350,CUST245,Bangalore,Net Banking
+ORD1020,2024-03-18,Adidas T-Shirt,Fashion,3,1800,5400,CUST122,Kolkata,UPI
+ORD1074,2024-03-19,Headphones,Electronics,2,2500,5000,CUST237,Kolkata,Credit Card
+ORD1034,2024-03-21,iPhone 15,Electronics,1,75000,75000,CUST239,Chennai,Debit Card
+ORD1046,2024-03-22,Wireless Mouse,Electronics,4,800,3200,CUST132,Pune,Net Banking
+ORD1106,2024-03-24,Headphones,Electronics,2,2500,5000,CUST173,Kolkata,Credit Card
+ORD1041,2024-03-26,Wireless Mouse,Electronics,4,800,3200,CUST186,Bangalore,Net Banking
+ORD1107,2024-03-28,Laptop Bag,Accessories,3,1200,3600,CUST226,Hyderabad,Debit Card
+ORD1055,2024-03-31,Coffee Mug,Home,4,350,1400,CUST243,Chennai,UPI
+ORD1093,2024-04-08,Wireless Mouse,Electronics,3,800,2400,CUST111,Bangalore,Credit Card
+ORD1067,2024-04-09,Notebook Set,Stationery,1,250,250,CUST221,Mumbai,UPI
+ORD1123,2024-04-09,Notebook Set,Stationery,3,250,750,CUST203,Chennai,Net Banking
+ORD1052,2024-04-09,iPhone 15,Electronics,2,75000,150000,CUST112,Hyderabad,Net Banking
+ORD1043,2024-04-11,Notebook Set,Stationery,3,250,750,CUST180,Mumbai,Credit Card
+ORD1002,2024-04-12,Adidas T-Shirt,Fashion,1,1800,1800,CUST136,Delhi,Net Banking
+ORD1148,2024-04-16,Headphones,Electronics,2,2500,5000,CUST229,Hyderabad,Cash on Delivery
+ORD1136,2024-04-18,iPhone 15,Electronics,2,75000,150000,CUST242,Delhi,UPI
+ORD1057,2024-04-18,Nike Shoes,Fashion,4,5500,22000,CUST147,Delhi,Debit Card
+ORD1005,2024-04-22,iPhone 15,Electronics,2,75000,150000,CUST158,Hyderabad,Net Banking
+ORD1125,2024-04-24,Notebook Set,Stationery,1,250,250,CUST125,Chennai,Credit Card
+ORD1069,2024-04-28,Jeans,Fashion,3,2200,6600,CUST131,Bangalore,Net Banking
+ORD1141,2024-05-06,Adidas T-Shirt,Fashion,3,1800,5400,CUST195,Hyderabad,Net Banking
+ORD1012,2024-05-06,Power Bank,Electronics,1,1500,1500,CUST122,Kolkata,Cash on Delivery
+ORD1070,2024-05-07,Adidas T-Shirt,Fashion,2,1800,3600,CUST247,Hyderabad,Credit Card
+ORD1116,2024-05-08,Power Bank,Electronics,3,1500,4500,CUST222,Delhi,Net Banking
+ORD1027,2024-05-09,Coffee Mug,Home,4,350,1400,CUST130,Hyderabad,UPI
+ORD1135,2024-05-10,Power Bank,Electronics,3,1500,4500,CUST139,Delhi,Credit Card
+ORD1079,2024-05-11,Adidas T-Shirt,Fashion,1,1800,1800,CUST198,Hyderabad,UPI
+ORD1122,2024-05-14,Coffee Mug,Home,2,350,700,CUST113,Chennai,UPI
+ORD1051,2024-05-16,Adidas T-Shirt,Fashion,2,1800,3600,CUST209,Bangalore,Credit Card
+ORD1062,2024-05-17,Nike Shoes,Fashion,3,5500,16500,CUST135,Mumbai,Credit Card
+ORD1049,2024-05-19,Wireless Mouse,Electronics,2,800,1600,CUST178,Kolkata,Net Banking
+ORD1131,2024-05-19,Samsung Galaxy,Electronics,1,45000,45000,CUST127,Pune,Debit Card
+ORD1134,2024-05-20,Coffee Mug,Home,1,350,350,CUST248,Mumbai,Cash on Delivery
+ORD1036,2024-05-20,Laptop Bag,Accessories,4,1200,4800,CUST173,Kolkata,Cash on Delivery
+ORD1054,2024-05-21,Coffee Mug,Home,1,350,350,CUST135,Bangalore,Credit Card
+ORD1078,2024-05-25,Notebook Set,Stationery,1,250,250,CUST151,Pune,Cash on Delivery
+ORD1096,2024-05-25,Coffee Mug,Home,1,350,350,CUST107,Chennai,Credit Card
+ORD1028,2024-05-25,Nike Shoes,Fashion,2,5500,11000,CUST117,Delhi,Cash on Delivery
+ORD1008,2024-05-29,Laptop Bag,Accessories,4,1200,4800,CUST221,Mumbai,Net Banking
+ORD1009,2024-05-30,Samsung Galaxy,Electronics,2,45000,90000,CUST183,Mumbai,Net Banking
+ORD1132,2024-05-31,Water Bottle,Home,3,400,1200,CUST200,Mumbai,Debit Card
+ORD1064,2024-06-03,Water Bottle,Home,4,400,1600,CUST192,Chennai,Debit Card
+ORD1097,2024-06-06,Notebook Set,Stationery,2,250,500,CUST183,Pune,Credit Card
+ORD1026,2024-06-07,Water Bottle,Home,4,400,1600,CUST149,Hyderabad,Net Banking
+ORD1076,2024-06-14,Nike Shoes,Fashion,1,5500,5500,CUST105,Kolkata,Debit Card
+ORD1117,2024-06-14,Water Bottle,Home,3,400,1200,CUST190,Chennai,UPI
+ORD1017,2024-06-15,Samsung Galaxy,Electronics,3,45000,135000,CUST161,Mumbai,Net Banking
+ORD1098,2024-06-15,Nike Shoes,Fashion,2,5500,11000,CUST112,Hyderabad,Net Banking
+ORD1032,2024-06-16,Jeans,Fashion,3,2200,6600,CUST137,Kolkata,Net Banking
+ORD1144,2024-06-20,Water Bottle,Home,4,400,1600,CUST236,Delhi,Net Banking
+ORD1120,2024-06-23,Laptop Bag,Accessories,4,1200,4800,CUST205,Mumbai,Net Banking
+ORD1059,2024-06-25,Headphones,Electronics,1,2500,2500,CUST122,Bangalore,Debit Card
+ORD1037,2024-06-28,Coffee Mug,Home,4,350,1400,CUST171,Mumbai,Cash on Delivery
+ORD1082,2024-06-30,iPhone 15,Electronics,4,75000,300000,CUST178,Mumbai,Cash on Delivery
+ORD1058,2024-07-02,Jeans,Fashion,3,2200,6600,CUST105,Bangalore,Credit Card
+ORD1142,2024-07-04,Adidas T-Shirt,Fashion,3,1800,5400,CUST189,Pune,Debit Card
+ORD1073,2024-07-04,iPhone 15,Electronics,1,75000,75000,CUST190,Kolkata,Net Banking
+ORD1014,2024-07-07,Adidas T-Shirt,Fashion,4,1800,7200,CUST143,Pune,UPI
+ORD1077,2024-07-08,Coffee Mug,Home,4,350,1400,CUST146,Delhi,Net Banking
+ORD1024,2024-07-08,Power Bank,Electronics,3,1500,4500,CUST129,Hyderabad,Cash on Delivery
+ORD1094,2024-07-09,Samsung Galaxy,Electronics,2,45000,90000,CUST146,Hyderabad,Net Banking
+ORD1087,2024-07-10,Power Bank,Electronics,3,1500,4500,CUST221,Mumbai,Debit Card
+ORD1121,2024-07-14,Laptop Bag,Accessories,2,1200,2400,CUST127,Kolkata,Net Banking
+ORD1088,2024-07-14,Water Bottle,Home,4,400,1600,CUST217,Chennai,Debit Card
+ORD1031,2024-07-16,Notebook Set,Stationery,2,250,500,CUST198,Hyderabad,UPI
+ORD1086,2024-07-17,Power Bank,Electronics,4,1500,6000,CUST115,Mumbai,UPI
+ORD1011,2024-07-20,Power Bank,Electronics,1,1500,1500,CUST149,Kolkata,Net Banking
+ORD1003,2024-07-21,Laptop Bag,Accessories,4,1200,4800,CUST162,Chennai,Debit Card
+ORD1102,2024-07-25,Jeans,Fashion,4,2200,8800,CUST243,Mumbai,UPI
+ORD1126,2024-07-26,Headphones,Electronics,4,2500,10000,CUST103,Kolkata,UPI
+ORD1133,2024-07-29,Notebook Set,Stationery,1,250,250,CUST175,Kolkata,UPI
+ORD1150,2024-07-29,Adidas T-Shirt,Fashion,2,1800,3600,CUST108,Hyderabad,Debit Card
+ORD1035,2024-07-29,Nike Shoes,Fashion,2,5500,11000,CUST113,Kolkata,Credit Card
+ORD1103,2024-08-03,Jeans,Fashion,4,2200,8800,CUST121,Kolkata,Debit Card
+ORD1016,2024-08-03,Headphones,Electronics,3,2500,7500,CUST174,Kolkata,Net Banking
+ORD1092,2024-08-03,iPhone 15,Electronics,2,75000,150000,CUST168,Bangalore,Net Banking
+ORD1110,2024-08-05,Water Bottle,Home,1,400,400,CUST179,Hyderabad,Net Banking
+ORD1013,2024-08-07,Coffee Mug,Home,1,350,350,CUST138,Bangalore,Debit Card
+ORD1084,2024-08-10,Adidas T-Shirt,Fashion,4,1800,7200,CUST212,Hyderabad,UPI
+ORD1068,2024-08-11,Laptop Bag,Accessories,1,1200,1200,CUST165,Pune,Debit Card
+ORD1113,2024-08-13,Samsung Galaxy,Electronics,4,45000,180000,CUST173,Hyderabad,Net Banking
+ORD1081,2024-08-19,Adidas T-Shirt,Fashion,1,1800,1800,CUST156,Bangalore,Cash on Delivery
+ORD1099,2024-08-23,Adidas T-Shirt,Fashion,3,1800,5400,CUST148,Delhi,Debit Card
+ORD1112,2024-08-25,Laptop Bag,Accessories,1,1200,1200,CUST115,Bangalore,UPI
+ORD1114,2024-08-25,Jeans,Fashion,2,2200,4400,CUST108,Mumbai,Debit Card
+ORD1022,2024-08-25,Coffee Mug,Home,1,350,350,CUST142,Hyderabad,Net Banking
+ORD1066,2024-08-28,Water Bottle,Home,2,400,800,CUST221,Bangalore,Debit Card
+ORD1145,2024-08-29,Power Bank,Electronics,4,1500,6000,CUST170,Pune,Net Banking
+ORD1118,2024-09-04,Headphones,Electronics,4,2500,10000,CUST170,Bangalore,UPI
+ORD1025,2024-09-05,Adidas T-Shirt,Fashion,2,1800,3600,CUST173,Hyderabad,Credit Card
+ORD1060,2024-09-05,Headphones,Electronics,2,2500,5000,CUST141,Kolkata,Debit Card
+ORD1075,2024-09-07,iPhone 15,Electronics,4,75000,300000,CUST138,Hyderabad,Credit Card
+ORD1018,2024-09-10,Nike Shoes,Fashion,4,5500,22000,CUST121,Bangalore,Cash on Delivery
+ORD1050,2024-09-11,Jeans,Fashion,2,2200,4400,CUST165,Mumbai,Debit Card
+ORD1065,2024-09-16,Coffee Mug,Home,4,350,1400,CUST244,Mumbai,Cash on Delivery
+ORD1091,2024-09-17,Wireless Mouse,Electronics,3,800,2400,CUST167,Hyderabad,Net Banking
+ORD1038,2024-09-17,Samsung Galaxy,Electronics,2,45000,90000,CUST239,Delhi,Cash on Delivery
+ORD1045,2024-09-17,Laptop Bag,Accessories,2,1200,2400,CUST216,Bangalore,Credit Card
+ORD1039,2024-09-18,Wireless Mouse,Electronics,1,800,800,CUST197,Kolkata,Credit Card
+ORD1137,2024-09-19,Nike Shoes,Fashion,2,5500,11000,CUST158,Chennai,Credit Card
+ORD1143,2024-09-22,Nike Shoes,Fashion,1,5500,5500,CUST216,Bangalore,Net Banking
+ORD1111,2024-09-23,Wireless Mouse,Electronics,1,800,800,CUST234,Mumbai,Debit Card
+ORD1010,2024-09-23,Notebook Set,Stationery,2,250,500,CUST217,Hyderabad,Debit Card
+ORD1101,2024-09-25,Water Bottle,Home,1,400,400,CUST146,Chennai,Cash on Delivery
+ORD1104,2024-09-27,iPhone 15,Electronics,3,75000,225000,CUST151,Bangalore,UPI
+ORD1089,2024-10-03,Notebook Set,Stationery,4,250,1000,CUST227,Delhi,Net Banking
+ORD1029,2024-10-09,Nike Shoes,Fashion,3,5500,16500,CUST132,Delhi,Debit Card
+ORD1071,2024-10-11,Headphones,Electronics,2,2500,5000,CUST120,Hyderabad,Net Banking
+ORD1090,2024-10-14,Samsung Galaxy,Electronics,2,45000,90000,CUST135,Delhi,Cash on Delivery
+ORD1095,2024-10-15,Coffee Mug,Home,3,350,1050,CUST105,Bangalore,Credit Card
+ORD1119,2024-10-19,Notebook Set,Stationery,1,250,250,CUST217,Bangalore,Credit Card
+ORD1115,2024-10-20,Notebook Set,Stationery,3,250,750,CUST105,Kolkata,Debit Card
+ORD1056,2024-10-21,iPhone 15,Electronics,1,75000,75000,CUST144,Pune,Cash on Delivery
+ORD1048,2024-10-23,Wireless Mouse,Electronics,3,800,2400,CUST170,Delhi,Cash on Delivery
